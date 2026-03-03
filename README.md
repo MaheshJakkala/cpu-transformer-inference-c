@@ -177,14 +177,11 @@ Metrics tracked:
 
 Example benchmark snapshot:
 
+
 | Version | Latency (ms) | Tokens/sec | RSS (MB) | F1 |
-
 | :--- | :--- | :--- | :--- | :--- |
-
 | v0.0 | 14.2 | 712 | 142 | 91.2 |
-
 | v0.2 | 11.1 | 890 | 96 | 91.2 |
-
 | v0.5 | 8.9 | 1140 | 74 | 90.9 |
 
 All results are reproducible with fixed compiler flags and dataset subsets.
