@@ -18,7 +18,7 @@ Modern LLM systems are GPU-centric.This project explores:
     
 
 The goal is to engineer a **reproducible, measurable optimization journey** — not just implement a model.
-
+ 
 🏗 Architecture Overview
 ========================
 ```
