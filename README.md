@@ -2,7 +2,7 @@
 =======================================================
 
 > A research-oriented, CPU-first Transformer inference engine written entirely in ISO C, focused on low-level performance engineering, memory efficiency, and reproducible benchmarking.
-
+ 
 This project is a systematic study of optimizing Transformer inference on CPUs without external ML libraries.It emphasizes cache efficiency, memory discipline, quantization, operator fusion, and tiled attention — all implemented from scratch.
  
 🎯 Vision
