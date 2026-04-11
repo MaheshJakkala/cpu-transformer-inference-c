@@ -50,7 +50,7 @@ Input → Embedding → Multi-Head Attention → FFN → LayerNorm → Output   
     
 *   Accuracy vs latency tradeoff measured
     
-
+ 
 ### 2️⃣ Operator Fusion
 
 *   Linear + Bias fusion
